@@ -1,2 +1,2 @@
 # nft_workshop
-Workshop project taken wtih 0xTec - Crypto Dev Club
+Workshop project taken with 0xTec - Crypto Dev Club
